@@ -46,8 +46,7 @@ OpenAI LLM Audit:
 https://colab.research.google.com/drive/1vmRmNfs-O0hnyHUUaDLTO06dYtt9Lf7j?usp=sharing
 
 Comparison and Graphs:
-https://colab.research.google.com/drive/12zJlyXZDdVdhdEBqLa5zyAUukmP4NGu?usp=sharing
-
+https://colab.research.google.com/drive/12zJlvyXZDdVdhdEBqLa5zyAUukmP4NGu?usp=sharing
 
 
 
